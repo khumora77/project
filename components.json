@@ -6,11 +6,8 @@
   "tailwind": {
     "config": "",
     "css": "src/index.css",
-<<<<<<< HEAD
     "baseColor": "gray",
-=======
     "baseColor": "neutral",
->>>>>>> 4bf3f6270daa65227b80a1d2a539b431f876bc88
     "cssVariables": true,
     "prefix": ""
   },
