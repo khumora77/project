@@ -11,6 +11,10 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+<<<<<<< HEAD
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+=======
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "json-server": "^1.0.0-beta.3",
@@ -26,6 +30,7 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3",
     "tailwind-merge": "^3.3.1",
+>>>>>>> b56a0027fdee552404138a62fc13120c861f5098
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
